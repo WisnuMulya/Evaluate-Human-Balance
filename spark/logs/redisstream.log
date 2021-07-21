@@ -1,0 +1,40 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|Trevor.Jackson@te...|     1965|
+|Craig.Mitra@test.com|     1964|
+|  Eric.Huey@test.com|     1962|
+|Gail.Sanchez@test...|     1961|
+|Suresh.Gonzalez@t...|     1959|
+|Danny.Fibonnaci@t...|     1958|
+| Eric.Olson@test.com|     1957|
+|Senthil.Clark@tes...|     1956|
+|Ashley.Staples@te...|     1955|
+|Craig.Lincoln@tes...|     1954|
+|  Gail.Huey@test.com|     1953|
+|Spencer.Gonzalez@...|     1952|
+| Spencer.Wu@test.com|     1951|
+|Bobby.Howard@test...|     1950|
+|Frank.Khatib@test...|     1949|
+|Larry.Doshi@test.com|     1948|
+|Trevor.Davis@test...|     1947|
+|Edward.Hansen@tes...|     1946|
+|Suresh.Jones@test...|     1945|
+| Jane.Doshi@test.com|     1944|
++--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
